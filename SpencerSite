@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Spencer Canner</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href='http://fonts.googleapis.com/css?family=Pacifico|Oswald|Montserrat|Ubuntu' rel='stylesheet'
+          type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href="icons/favicon.ico"/>
+
+</head>
+<body>
+
+<div class="wrap">
+
+    <!--top-->
+    <div class="top">
+        <div class="topBackground"></div>
+        <div class="topContainer">
+            <div class="name">
+                <span class="titleText">Spencer Canner is a:</span>
+            </div>
+            <div class="description">
+            <span class="topLine">
+            (Future) Engineer, Music-Enthusiast, Designer, and Developer </span>
+            </div>
+        </div>
+    </div>
+
+    <!--about me    -->
+    <div class="container">
+        <div class="content">
+            <div class="about even">
+                <h1>About Me</h1>
+
+                <div class="innerContent">
+                    <h3>I am an Industrial Engineering Student at the University of Toronto. I am very hardworking with
+                        a passionate
+                        attitude towards everything I create. Every project I take on, big or small, is crafted with a
+                        strong attention to detail
+                        and I am always proud of the finished product. I am a quick and avid learner, interested in
+                        absorbing as much knowledge
+                        as possible.</h3>
+                    <br>
+
+                    <h3>I am very focused on technology, as it is an extremely powerful tool. It's ability to have such
+                        a substantial impact on
+                        society drives me to dive deeper into this field. Specifically, areas such as UI and UX are of
+                        great interest to myself as they
+                        deal with how people use technology, and consequently the extent to which it has an effect in
+                        their lives.
+                    </h3>
+                    <br>
+
+                    <h3>Outside of academics and tech, I am also very interested in music. Having grown up in an
+                        environment with an abundance of musical
+                        instruments, and pursuing my high school education at an arts school, music has become an
+                        essential part of my life. I believe that
+                        my history with music has lead me to become a very creative person, and consequently has given
+                        me a unique outlook on problem solving.
+                        This has proven to be useful in tackling many problems faced throughout my academic career, as
+                        well as in engineering.</h3>
+                </div>
+            </div>
+            <div class="resume odd">
+                <h1>Resume</h1>
+
+                <div class="innerContent">
+                    <h3>View my <a href="spencer_canner_resume.pdf">resume</a></h3>
+                </div>
+            </div>
+
+
+            <div class="projects even">
+                <h1>Projects</h1>
+
+                <div class="innerContent">
+                    <h2 class="center">Converter Helper</h2><br>
+                    <h3 class="center">Created for Personal Convenience</h3>
+                    <img class="screenshot" src="./icons/Screenshot_2015-09-12-23-48-08.png">
+                    <img class="screenshot" src="./icons/Screenshot_2015-09-12-23-45-52.png">
+                    <img class="screenshot" src="./icons/Screenshot_2015-09-12-23-45-29.png">
+                    <img class="screenshot" src="./icons/Screenshot_2015-09-12-23-44-12.png">
+
+                    <h3 class="center">Simple offline app to convert between common liquid units<br> <br>
+                        <a href="https://play.google.com/store/apps/details?id=com.spencercanner.converter">
+                            <img alt="Get it on Google Play"
+                                 src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png"/>
+                        </a>
+                    </h3>
+                    <br><br>
+                </div>
+            </div>
+
+            <div class="contact odd">
+                <h1>Contact Me</h1>
+
+                <div class="innerContent">
+                    <h3>m: (647)-994-0710</h3>
+
+                    <h3>e: spencer.canner@mail.utoronto.ca</h3>
+                    <a class="bigIcon" href="https://github.com/spencercanner"><i class="fa fa-github-square"></i></a>
+                    <a class="bigIcon" href="https://ca.linkedin.com/pub/spencer-canner/93/53/189"><i
+                            class="fa fa-linkedin"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom">
+        <h4 class="bottomText">Imagined and Coded with <i class="fa fa-heart"></i> and <i class="fa fa-coffee"></i> by
+            Spencer Canner</h4>
+    </div>
+
+
+</div>
+
+</body>
+</html>
