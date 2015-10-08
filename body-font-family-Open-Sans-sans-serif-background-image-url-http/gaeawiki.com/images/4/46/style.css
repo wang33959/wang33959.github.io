@@ -1,0 +1,62 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url("http://gaeawiki.com/images/4/46/Shijiazhuang_skyline_by_night.jpg");
+  background-size: cover
+}
+
+.CrimeRate{
+  font-family:fantasy;
+  font-feature-settings: normal;
+  font-size: 200%;
+  color:brown;
+  font-weight: 600;
+}
+.Temperature{
+  font-family:fantasy;
+  font-feature-settings: normal;
+  font-size: 200%;
+  color:black;
+  font-weight: 600;
+}
+.Population {
+  font-family:fantasy;
+  font-feature-settings: normal;
+  font-size: 200%;
+  color:mistyrose;
+  font-weight: 600; 
+}
+.Landscape{
+  font-family:fantasy;
+  font-feature-settings: normal;
+  font-size: 200%;
+  color:aqua;
+  font-weight: 600; 
+}
+.Area{
+  font-family:fantasy;
+  font-feature-settings: normal;
+  font-size: 200%;
+  color:darkgreen;
+  font-weight: 600; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
